@@ -2,8 +2,6 @@
 
 A lightweight, foundational project demonstrating core concepts of 3D computer graphics and rendering from scratch. 
 
-![Project Banner / Screenshot Placeholder](link-to-screenshot.png)
-
 ## 🚀 Features
 
 - **Software/Custom Rasterizer or Basic Pipeline:** Built to showcase fundamental rendering calculations without heavy reliance on external heavy engines.
